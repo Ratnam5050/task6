@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my HTML</title>                                                                                                                 
+</head>
+<body>
+<pre>
+<center><h1>RESUME</h1><center>  
+<img src="./WhatsApp Image 2024-07-16 at 22.33.30_9770712a.jpg" width="250" height="250 " align=right>                                                                                              
+<center><h2>Vasanthala Ratnam</h2><center >
+<center>vyaparapurntha</center>
+<center>peddapuram</center>
+<center>9392048027</center>
+<center>smilyratnam6@gmail.com</center></pre>
+<h2>work experience</h2>
+<pre>   no experience 
+</pre> <hr> 
+<h4>EDUCATION HISTORY</h4>
+<pre>
+<h4>Graduation</h4>
+Course B.Tech( Electronic communications
+engineering )
+College JNTU
+Year of Passing 2024
+Grade Pass-63.14
+
+<h4>INTERMEDIATE</h4>
+Skkm juniour college
+year passing-2020
+Grade points-7.4                                                                                                 
+
+<h4>SSC</h4>
+Board of Andhra Pradesh
+Jnm  high school
+year passing 2018
+grade points-9.3
+                 
+              </pre><hr>
+<h4>Hobbies</h4>
+<pre>     
+      Reading books                                                                                                                                                                                                         
+      watching mobile</pre><hr>
+<h4>Projectwork</h4>
+<pre>Online Voting System Using Django Web Frame Work</pre><hr>
+<h4>Skils</h4>
+<pre>  
+      Typing                                                                                                                                                                                                      
+      Basics of python
+      Basics of embedded systems</pre>  
+  
+
+   
+</pre>
+<a href download="<my resume task">Download</a>
+</body>
+ 
